@@ -1,0 +1,37 @@
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+/*#banner{
+
+	 position:center;
+    background-image: url('') ;
+    background-size: 100%; 
+    }*/
+    .jumbotron {
+ 	height: 600px;
+  background-image: url("./Image/tdc final.png");
+  background-size: cover;
+  background-position: center;
+}
+#cover-img{
+	height: 600px;
+	background-image: url("./Image/tdc final.png");
+  background-size: cover;
+  background-position: center;
+}
+#cover-img-2{
+	height: 600px;
+	background-image: url("./Image/tdc final.png");
+  background-size: cover;
+  background-position: center;
+  opacity: 0.5;
+}
+#cover-color{
+	background: steelblue;
+}
+#cover-color-2{
+	background: steelblue;
+	opacity: 0.1
+}
